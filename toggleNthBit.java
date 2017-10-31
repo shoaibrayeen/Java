@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class tog
+public class toggleNthBit
 {
 	public static void main(String[] args)
 	{
